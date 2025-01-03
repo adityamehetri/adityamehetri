@@ -56,7 +56,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="[images.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg)" height="40" alt="adobepremierepro logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
