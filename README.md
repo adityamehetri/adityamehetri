@@ -76,12 +76,9 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Unreal_Engine_Logo.svg" height="40" alt="Unreal Engine logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
+
 </div>
 
 ###
