@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="400" src="me.jpg"  />
+<img align="right" height="600" src="me.jpg"  />
 
 ###
 
