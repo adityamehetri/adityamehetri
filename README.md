@@ -76,7 +76,7 @@
 ###
 
 <div align="left">
- <img src=" https://upload.wikimedia.org/wikipedia/commons/0/09/Unreal_Engine_Logo.svg" height="40" alt="Unreal Engine logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine logo"  />
   <img width="12" />
 
 </div>
